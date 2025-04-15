@@ -1,2 +1,5 @@
 # funwrld
-fuin world game engine powerewd by imguio 
+funwrld game engine
+
+# powered by 
+imgui
